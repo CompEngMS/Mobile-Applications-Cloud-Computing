@@ -2,7 +2,7 @@
 
 |          |Available|Last update|
 |----------|:-------:|:---------:|
-|Exams     |no       |           |
+|Exams     |yes      |           |
 |Notes     |yes      |2020       |
 |References|no       |           |
 |Slides    |no       |           |
